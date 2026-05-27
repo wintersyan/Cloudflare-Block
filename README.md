@@ -4,6 +4,8 @@ This script automatically enables Cloudflare **I'm Under Attack Mode** when the 
 
 It is designed to help mitigate traffic spikes, abusive requests, or potential DDoS situations by temporarily increasing Cloudflare protection automatically.
 
+*I think this scenario is completely useless in 2026, but I find it funny to give it a second life.*
+
 # Configuration
 
 ## Download the Repository
